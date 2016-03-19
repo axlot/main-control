@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/axlot/main-control#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "angular": "^1.5.2",
+    "angular-bootstrap-npm": "^0.14.3",
+    "express": "^4.13.4",
+    "mongodb": "^2.1.7",
+    "mongoose": "^4.4.8"
   }
 }
